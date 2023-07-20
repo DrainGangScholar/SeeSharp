@@ -1,6 +1,0 @@
-C:\Users\boss\source\repos\See Sharp\See Sharp Dynamic Link Library 3\bin\Debug\See Sharp Dynamic Link Library 3.dll
-C:\Users\boss\source\repos\See Sharp\See Sharp Dynamic Link Library 3\bin\Debug\See Sharp Dynamic Link Library 3.pdb
-C:\Users\boss\source\repos\See Sharp\See Sharp Dynamic Link Library 3\obj\Debug\See Sharp Dynamic Link Library 3.csproj.AssemblyReference.cache
-C:\Users\boss\source\repos\See Sharp\See Sharp Dynamic Link Library 3\obj\Debug\See Sharp Dynamic Link Library 3.csproj.CoreCompileInputs.cache
-C:\Users\boss\source\repos\See Sharp\See Sharp Dynamic Link Library 3\obj\Debug\See Sharp Dynamic Link Library 3.dll
-C:\Users\boss\source\repos\See Sharp\See Sharp Dynamic Link Library 3\obj\Debug\See Sharp Dynamic Link Library 3.pdb
