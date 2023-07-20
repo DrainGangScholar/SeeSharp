@@ -1,0 +1,20 @@
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.csproj.AssemblyReference.cache
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.AssemblyInfoInputs.cache
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.AssemblyInfo.cs
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.csproj.CoreCompileInputs.cache
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp.exe
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp.deps.json
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp.runtimeconfig.json
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp.dll
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp.pdb
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp Dynamic Link Library 2.dll
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp Dynamic Link Library.dll
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp Dynamic Link Library.pdb
+C:\Users\boss\source\repos\See Sharp\See Sharp\bin\Debug\net7.0\See Sharp Dynamic Link Library 2.pdb
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.csproj.CopyComplete
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.dll
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\refint\See Sharp.dll
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.pdb
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\See Sharp.genruntimeconfig.cache
+C:\Users\boss\source\repos\See Sharp\See Sharp\obj\Debug\net7.0\ref\See Sharp.dll

@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "See Sharp/1.0.0": {
+        "runtime": {
+          "See Sharp.dll": {}
+        }
+      },
+      "See Sharp Dynamic Link Library/1.0.0": {
+        "dependencies": {
+          "See Sharp Dynamic Link Library 2": "1.0.0"
+        },
+        "runtime": {
+          "See Sharp Dynamic Link Library.dll": {}
+        }
+      },
+      "See Sharp Dynamic Link Library 2/1.0.0": {
+        "runtime": {
+          "See Sharp Dynamic Link Library 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "See Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "See Sharp Dynamic Link Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "See Sharp Dynamic Link Library 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
